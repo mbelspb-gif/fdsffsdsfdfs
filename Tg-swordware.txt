@@ -2,10 +2,9 @@
 #profile-title: 🏳️ Swordware V1.1 (белый список в бете)
 #profile-web-page-url: https://t.me/swordware
 #support-url: https://t.me/luckyqwertysay
-#announce: 🌟 Swordware - всегда бесплатный!LTE- белый список!!! 🚀 Белые списки в бете, могут не работать/ Если нету ⚡ то сервер ограничен 20мбит/с 👤 by @luckyqwertysay • 👥 tg @swordware
+#announce: 🌟 Swordware - всегда бесплатный!LTE- белый список!!! 🚀 спонсор-iqoo_techp  Если нету ⚡ то сервер ограничен 20мбит/с 👤 by @luckyqwertysay • 👥 tg @swordware
 #subscription-userinfo: upload=0; download=0; total=0
 
-vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@89.208.231.19:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=
 trojan://j4fBqEXqQQEUPFtkrBSauQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US @swordware
 trojan://Bsitv2hnCKMJjvdTxKuqdQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US #2@swordware
 vless://b7cbcdae-2072-43a7-b318-0200653cab24@147.45.48.172:12656?type=tcp&encryption=none&security=none#🇷🇺 📹 Россия | Ютуб [50Мбит/c]
