@@ -2,7 +2,7 @@
 #profile-title: 🏳️ Swordware V2.1 (белый список в бете)
 #profile-web-page-url: https://t.me/swordware
 #support-url: https://t.me/luckyqwertysay
-#announce: 🌟 НОВАЯ ВЕРСИЯ В ТЕЛЕГРАММЕ @SWORDWARE
+#announce: 🌟 НОВАЯ ВЕРСИЯ В ТЕЛЕГРАММЕ @SWORDWARE 🌟 НОВАЯ ВЕРСИЯ В ТЕЛЕГРАММЕ @SWORDWARE 🌟 НОВАЯ ВЕРСИЯ В ТЕЛЕГРАММЕ @SWORDWARE 🌟 НОВАЯ ВЕРСИЯ В ТЕЛЕГРАММЕ @SWORDWARE
 #subscription-userinfo: upload=0; download=0; total=0
 headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#НОВАЯ ВЕРСИЯ В @swordware
 trojan://Bsitv2hnCKMJjvdTxKuqdQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 НОВАЯ ВЕРСИЯ В @swordware
